@@ -9,7 +9,7 @@
     "peer-dial": "0.0.8",
     "node-uuid": "1.4.1",
     "ws": "0.7.2",
-    "express": "4.12.4",
+    "express": "4.17.3",
     "opn": "2.0.0",
     "xml2js": "0.4.9",
     "xmlbuilder": "2.6.4",
